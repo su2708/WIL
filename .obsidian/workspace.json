@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3464d7cff12646a2",
+        "id": "acfb947580572409",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c1721bce02c7bf",
+            "id": "488638b6ea38fec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,6 +148,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "411b6602a172f9c5",
-  "lastOpenFiles": []
+  "active": "488638b6ea38fec6",
+  "lastOpenFiles": [
+    "WIL.md",
+    "사전캠프/1주차 WIL.md",
+    "본캠프/2주차 WIL.md",
+    "본캠프/1주차 WIL.md",
+    "본캠프/본캠프.md",
+    "사전캠프/사전캠프.md",
+    "사전캠프/5주차 WIL.md",
+    "사전캠프/4주차 WIL.md",
+    "사전캠프/3주차 WIL.md",
+    "사전캠프/2주차 WIL.md",
+    "README.md"
+  ]
 }

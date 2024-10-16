@@ -1,4 +1,4 @@
-#WIL [[Note Template]]
+#WIL 
 ## 1. FACTS(사실, 객관) : 이번 일주일 동안 있었던 일, 내가 한 일
 
 
