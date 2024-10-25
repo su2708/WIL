@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "본캠프/3주차 WIL.md",
+                "file": "본캠프/4주차 WIL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3주차 WIL"
+              "title": "4주차 WIL"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "488638b6ea38fec6",
   "lastOpenFiles": [
-    "본캠프/2주차 WIL.md",
     "본캠프/3주차 WIL.md",
+    "본캠프/4주차 WIL.md",
+    "본캠프/2주차 WIL.md",
     "WIL.md",
     "사전캠프/1주차 WIL.md",
     "본캠프/1주차 WIL.md",
